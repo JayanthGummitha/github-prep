@@ -1,4 +1,2 @@
-# github-preparation  was done by Jayanth from merge-sub..!
-
-
+# github-preparation  was done by Jayanth from merge-sub & main..!
 
