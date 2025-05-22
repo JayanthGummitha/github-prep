@@ -1,2 +1,2 @@
-# github-preparation  was done by Jayanth from child-good & bad!
+# github-preparation  was done by Jayanth from child-good!
 
