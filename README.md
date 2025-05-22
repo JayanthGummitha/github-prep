@@ -1,2 +1,2 @@
-# github-preparation  was done by Jayanth from duaghter..!
+# github-preparation  was done by Jayanth from merge-main..!
 
